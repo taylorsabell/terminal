@@ -304,7 +304,7 @@ using a set of convenience scripts & tools in the **/tools** directory:
 
 ```powershell
 Import-Module .\tools\OpenConsole.psm1
-Set-MsBuildDevEnvironment
+Set-MsbuildDevEnvironment
 Invoke-OpenConsoleBuild
 ```
 
